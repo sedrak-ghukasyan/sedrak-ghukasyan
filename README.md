@@ -1,4 +1,3 @@
-### 👋 🌎
 [![GitHub Badge](https://img.shields.io/badge/-@sedrak--ghukasyan-%23181717?style=flat-square&logo=github)](https://github.com/sedrak-ghukasyan)
 [![Gmail Badge](https://img.shields.io/badge/-sedrak.ghukasyan@gmail.com-critical?style=flat-square&logo=gmail&logoColor=white)](mailto:sedrak.ghukasyan@gmail.com)
 

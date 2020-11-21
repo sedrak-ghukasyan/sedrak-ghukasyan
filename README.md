@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 🌎
+[![GitHub Badge](https://img.shields.io/badge/-@sedrak--ghukasyan-%23181717?style=flat-square&logo=github)](https://github.com/sedrak-ghukasyan)
+[![Gmail Badge](https://img.shields.io/badge/-sedrak.ghukasyan@gmail.com-critical?style=flat-square&logo=gmail&logoColor=white)](mailto:sedrak.ghukasyan@gmail.com)
 
+<!--
+[![Sedrak Ghukasyan's github stats](https://github-readme-stats.vercel.app/api?username=sedrak-ghukasyan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **sedrak-ghukasyan/sedrak-ghukasyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
